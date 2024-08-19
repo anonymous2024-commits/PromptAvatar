@@ -46,7 +46,7 @@ Environment Setup
 
 ### Prepare checkpoints and topology assets:
 
-* GoogleDrive: [download link](https://drive.google.com/drive/folders/1nSa7BAsyAoKODcJkQ775RQ0zRdl4-ijx?usp=sharing)
+* GoogleDrive: [download link](https://drive.google.com/drive/folders/1hcg5dCCzUlxzqwAjR5mdpILVmHmGIb5v?usp=sharing)
 
 #### File structure for Checkpoints
 
